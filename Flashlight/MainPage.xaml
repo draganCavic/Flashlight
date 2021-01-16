@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
+             BackgroundColor="Black"
+             x:Class="Flashlight.MainPage">
+
+    <StackLayout x:Name="outerStack"
+                 VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand">
+        <StackLayout Margin="0, 100, 0, 0"
+                      x:Name="outer2Stack">
+            <ImageButton x:Name="powerOnBtn"
+                         Source="power_on"
+                         IsVisible="false"
+                         HorizontalOptions="Center"
+                         VerticalOptions="CenterAndExpand"
+                         Clicked="FlashlightOnButtonOffClicked"/>
+
+            <ImageButton x:Name="powerOffBtn" 
+                     Source="power_off"
+                     IsVisible="true"
+                     HorizontalOptions="Center"
+                     VerticalOptions="CenterAndExpand"
+                     Clicked="FlashlightOnButtonOnClicked"/>
+
+        </StackLayout>
+
+        <StackLayout
+                     HorizontalOptions="FillAndExpand"
+                     VerticalOptions="FillAndExpand">
+            <maps:Map x:Name="map" IsVisible="false"/>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

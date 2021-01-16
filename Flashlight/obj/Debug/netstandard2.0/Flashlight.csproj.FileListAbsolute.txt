@@ -1,0 +1,14 @@
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\bin\Debug\netstandard2.0\Flashlight.deps.json
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\bin\Debug\netstandard2.0\Flashlight.dll
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\bin\Debug\netstandard2.0\ref\Flashlight.dll
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\bin\Debug\netstandard2.0\Flashlight.pdb
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\Flashlight.csprojAssemblyReference.cache
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\Flashlight.AssemblyInfoInputs.cache
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\Flashlight.AssemblyInfo.cs
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\Flashlight.csproj.CoreCompileInputs.cache
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\Flashlight.dll
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\ref\Flashlight.dll
+C:\Users\Cavic\source\repos\Flashlight\Flashlight\Flashlight\obj\Debug\netstandard2.0\Flashlight.pdb
